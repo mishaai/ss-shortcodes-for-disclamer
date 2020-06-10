@@ -1,0 +1,1 @@
+"# ss-shortcodes-for-disclamer" 
